@@ -1,0 +1,2 @@
+git remote add upstream https://github.com/original-owner/repo.git
+git fetch upstream 

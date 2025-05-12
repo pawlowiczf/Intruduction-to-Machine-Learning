@@ -1,0 +1,4 @@
+/lab2/images
+**/*.joblib
+lab4/gs_cv_multinomial_nb.joblib
+lab4/Liver_GSE14520_U133A.csv
